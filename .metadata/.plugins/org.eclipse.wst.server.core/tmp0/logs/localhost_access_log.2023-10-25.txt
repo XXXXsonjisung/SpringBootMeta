@@ -1,0 +1,14 @@
+127.0.0.1 - - [25/Oct/2023:17:28:50 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:17:28:51 +0900] "GET /movieInsight/ HTTP/1.1" 200 8046
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:17:28:51 +0900] "GET /movieInsight/resources/css/common/header.css HTTP/1.1" 200 4785
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:17:28:51 +0900] "GET /movieInsight/resources/css/cinema/cinema-homepage.css HTTP/1.1" 200 6875
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:17:28:51 +0900] "GET /movieInsight/resources/css/common/footer.css HTTP/1.1" 200 875
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:17:28:51 +0900] "GET /movieInsight/resources/images/common/logo.png HTTP/1.1" 200 8658
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:17:28:51 +0900] "GET /movieInsight/resources/images/common/footer.png HTTP/1.1" 200 433284
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:17:28:51 +0900] "GET /movieInsight/resources/js/cinema/cinema-homepage.js HTTP/1.1" 200 14093
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:17:28:52 +0900] "GET /resources/images/cinema/%EC%8B%9C%EC%82%AC%ED%9A%8Cimg.jpg HTTP/1.1" 404 877
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:17:28:52 +0900] "GET /resources/images/cinema/cgv%EC%9A%A9%EC%82%B0.jfif HTTP/1.1" 404 869
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:17:28:52 +0900] "GET /resources/images/cinema/%ED%8A%B9%EB%B3%84%EA%B4%80.jpg HTTP/1.1" 404 874
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:17:28:52 +0900] "GET /movieInsight/resources/images/cinema/44014266-%EC%98%81%ED%99%94-%EC%8A%AC%EB%A0%88%EC%9D%B4%ED%8A%B8.jpg HTTP/1.1" 200 118905
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:17:28:52 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:17:28:55 +0900] "GET / HTTP/1.1" 404 807

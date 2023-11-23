@@ -1,0 +1,25 @@
+
+10월 26, 2023 13:22:33.92 NEW SESSION
+10월 26, 2023 13:22:33.92 [16084:16236:1026/132233.090:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+10월 26, 2023 14:19:39.977 [16084:16236:1026/141939.976:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+10월 27, 2023 16:10:13.330 NEW SESSION
+10월 27, 2023 16:10:13.330 [2836:752:1027/161013.327:ERROR:device_event_log_impl.cc(225)] [16:10:13.327] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+
+10월 30, 2023 13:20:47.716 NEW SESSION
+10월 30, 2023 13:20:47.716 [17708:11764:1030/132047.715:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+10월 30, 2023 13:44:31.975 [17708:11764:1030/134431.975:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+10월 31, 2023 13:20:18.328 NEW SESSION
+10월 31, 2023 13:20:18.328 [14456:17096:1031/132018.326:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+10월 31, 2023 14:11:45.955 [14456:8760:1031/141145.955:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+10월 31, 2023 14:11:45.959 [14456:17096:1031/141145.959:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+11월 01, 2023 09:01:59.54 NEW SESSION
+11월 01, 2023 09:01:59.55 [4304:10356:1101/090159.053:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 01, 2023 09:01:59.55 [4304:10356:1101/090159.053:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+11월 01, 2023 11:18:00.100 NEW SESSION
+11월 01, 2023 11:18:00.100 [3904:5568:1101/111800.099:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+11월 01, 2023 13:20:15.60 [1660:15960:1101/132015.060:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+11월 01, 2023 13:45:21.970 [1660:15960:1101/134521.969:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
